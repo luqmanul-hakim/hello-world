@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hi this is training for introduction in git
